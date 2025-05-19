@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.env
+.venv
+.idea/
+.vscode/
+smooth_arc.py
+run.py
