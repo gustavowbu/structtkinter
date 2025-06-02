@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="structtkinter",
-    version="0.1.0",
+    version="0.1.1",
     py_modules=["structtkinter"],
     install_requires=[],
     author="Gustavo de Melo Timbó",

@@ -1,7 +1,7 @@
 import structtkinter as stk
 
 stk.STk([
-    stk.StyleSheet("examples/example1/stk/style.py", stk),
+    stk.Link(rel="stylesheet", href="examples/example1/stk/style.py", stk=stk),
     stk.Div(classes=["blueball"]),
     stk.Div(classes=["frame"], children=[
         stk.Div(classes=["item"]),
